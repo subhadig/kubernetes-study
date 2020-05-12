@@ -1,7 +1,7 @@
 # Simple Web-service
 A simple web service built using Spring Boot and Spring Web.
 
-# REST endpoints
+## REST endpoints
 - GET /details
 
 Response format:
