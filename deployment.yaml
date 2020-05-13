@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: simple-web-service-deployment
   labels:
-    app: simple-web-service
+    app: simple-web-service-deployment
 spec:
   replicas: 2
   selector:
