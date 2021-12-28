@@ -1,3 +1,4 @@
 # Kubernetes with Minikube
-This repository holds the source code for the *simple-web-service* project and
-the deployment files to deploy it in a local *Minikube* cluster. 
+This repository holds the source code for different example projects for the
+[Kubernetes with Minikube](https://www.subhadig.net/collections/kubernetes-with-minikube.html)
+series.
